@@ -1,0 +1,7 @@
+let grades = [10, 18, 14, 15]
+
+let tripled = grades.map(function(grade) {
+
+    return grade * 3
+   
+})
